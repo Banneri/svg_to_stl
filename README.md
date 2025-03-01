@@ -1,3 +1,5 @@
+This code makes some kind of a stamp from svg files.
+
 There is a limit how complex svg files this can handle. It can handle atleast 136 polygons.
 Measurements are in millimeters (mm).
 
